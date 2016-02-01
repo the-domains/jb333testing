@@ -1,0 +1,28 @@
+name: jb333testing
+favicon: null
+layout_spectrum: 0.5245333660859615
+typography_spectrum: 0.759796988684684
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9011598071083426
+  lightness: 0.9909322927705944
+  saturation: 0.35106923477724195
+  rhythmicContrast: 0.17667000740766525
+purpose: []
